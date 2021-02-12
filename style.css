@@ -1,1 +1,31 @@
 /* Use Selectors and attributes for the HTML design */
+body {
+ background-color:whitesmoke;
+}
+
+h1{
+    text-align: center;
+    font-size: 150px;
+    font-family: sans-serif;
+    font-style: inherit;
+    color: blue;
+    text-transform: inherit;
+    text-decoration: line-through;
+    text-shadow: 1px 1px 2px rgb(36, 172, 161), 0 0 25px blue, 0 0 5px darkblue;
+    font-variant: small-caps;
+    letter-spacing: 5px;
+}
+h2{
+    text-align: center;
+    font-size: 100px;
+    font-family: sans-serif;
+    color: teal;
+    font-style: oblique;
+    text-transform: lowercase;
+    text-decoration: underline;
+    text-shadow: 1px 1px 2px rgb(61, 36, 172), 0 0 25px rgb(166, 255, 0), 0 0 5px rgb(139, 0, 7);
+    font-variant: normal;
+    letter-spacing: 10px;
+}
+    
+
